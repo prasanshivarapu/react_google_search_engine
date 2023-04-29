@@ -1,0 +1,57 @@
+/* Write your CSS here */
+
+.image {
+  height: 200px;
+}
+.greet {
+  height: 120vh;
+  padding-top: 25px;
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.greet1 {
+  margin: 25px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+.greet2 {
+  width: 500px;
+
+  height: 35px;
+
+  min-height: 20px;
+  border-radius: 25px;
+  border-width: 0px;
+  border-top-style: hidden;
+  border: 0px;
+  outline: none;
+}
+.greet3 {
+  margin: 13px;
+  min-height: 20px;
+  border: solid;
+  border-radius: 25px;
+  border-color: aqua;
+}
+.image2 {
+  height: 30px;
+}
+.greet4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 15px;
+  width: 500px;
+}
+
+.greet6 {
+  display: flex;
+  padding-top: 20px;
+}
